@@ -1,0 +1,28 @@
+{
+  "name": "xservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamHwang1990/xservice.git"
+  },
+  "keywords": [
+    "vue",
+    "rxjs"
+  ],
+  "author": "samhwang1990@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SamHwang1990/xservice/issues"
+  },
+  "homepage": "https://github.com/SamHwang1990/xservice#readme",
+  "dependencies": {
+    "rxjs": "^5.5.8",
+    "vue": "^2.5.16",
+    "vue-rx": "^5.0.0"
+  }
+}

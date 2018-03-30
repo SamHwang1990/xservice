@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "lib": [
+      "ES6",
+      "ES5",
+      "ScriptHost",
+
+      "ES2015.Collection",
+      "ES2015.Generator",
+      "ES2015.Promise"
+    ],
+    "sourceMap": true,
+    "baseUrl": ".",
+    "paths": {
+
+    }
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
